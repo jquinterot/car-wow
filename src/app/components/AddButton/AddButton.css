@@ -1,0 +1,21 @@
+#AddButton {
+    background-color: black;
+    color:rgb(255, 255, 255);
+    margin-bottom: 4px;
+    width:230px;
+    border-radius: 2px;
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+    transition-duration: 0.4s;
+}
+
+#AddButton:hover{
+    background-color: #9e9e9e; /* Green */
+    color: black;
+}
+
+#AddButton:active {
+    background-color: #181818;
+    box-shadow: 0 5px #666;
+    color: white;
+    transform: translateY(4px);
+  }

@@ -1,0 +1,1 @@
+const CAR_ENDPOINT = 'db/cars_db.json';

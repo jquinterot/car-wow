@@ -1,0 +1,265 @@
+{
+	"cars": [
+		{
+			"make": "Ferrari",
+			"logo": "https://acortar.link/Fi2pBN",
+			"values": [
+				{
+					"id": "d6d5898a-9d54-4d00-8682-f9b0af748cd6",
+					"name": "F8 Tributo",
+					"quantity":0,
+					"max_speed": 350,
+					"year": 2021,
+					"color": "red",
+					"hp": 650,
+					"hybrid": "no",
+					"price": 280000,
+					"stars": 4.9,
+					"country": "Italy",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/6OdN1L"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/n2tX9R"
+						}
+					]
+				},
+				{
+					"id": "790c0058-212e-420d-b8fc-7ad8f37de04c",
+					"name": "LaFerrari",
+					"quantity":0,
+					"max_speed": 370,
+					"year": 2016,
+					"color": "red",
+					"hp": 800,
+					"hybrid": "yes",
+					"price": 3000000,
+					"stars": 5.0,
+					"country": "Italy",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/mrvsds"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/D1riPo"
+						}
+					]
+				},
+				{
+					"id": "18c1e6ac-0737-4253-8b17-02368847afd1",
+					"name": "488 Pista",
+					"quantity":0,
+					"max_speed": 360,
+					"year": 2020,
+					"color": "red",
+					"hp": 500,
+					"hybrid": "no",
+					"price": 346000,
+					"stars": 4.8,
+					"country": "Italy",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/n34alD"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/Uka94V"
+						}
+					]
+				},
+				{
+					"id": "dc2b52c4-1816-460a-aa00-42c799f494d0",
+					"name": "F12 Berlinetta",
+					"quantity":0,
+					"max_speed": 340,
+					"year": 2012,
+					"color": "red",
+					"hp": 800,
+					"hybrid": "yes",
+					"price": 210000,
+					"stars": 4.9,
+					"country": "Italy",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/mrvsds"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/D1riPo"
+						}
+					]
+				}
+			]
+		},
+		{
+			"make": "Koenigsegg",
+			"logo": "https://acortar.link/1rE7nm",
+			"values": [
+				{
+					"id": "13064782-206e-4204-8e82-f9f5580e778d",
+					"name": "CCX",
+					"quantity":0,
+					"max_speed": 370,
+					"year": 2013,
+					"color": "black",
+					"hp": 800,
+					"hybrid": "si",
+					"price": 1280000,
+					"stars": 5.0,
+					"country": "Sweden",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/Cv2kt7"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/aF5TRa"
+						}
+					]
+				},
+				{
+					"id":"9042822a-1228-4c87-8c41-796bcf63d7c8",
+					"name": "Jesko",
+					"quantity":0,
+					"max_speed": 438,
+					"year": 2022,
+					"color": "white",
+					"hp": 1000,
+					"hybrid": "si",
+					"price": 1280000,
+					"stars": 5.0,
+					"country": "Sweden",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/L2xznQ"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/lvw6fL"
+						}
+					]
+				}
+			]
+		},
+		{
+			"make": "Lamborghini",
+			"logo": "https://acortar.link/m0r7M4",
+			"values": [
+				{
+					"id": "9042822a-1228-4c87-8c41-796bcf63d7c8",
+					"name": "Urus",
+					"quantity":0,
+					"max_speed": 340,
+					"year": 2019,
+					"color": "silver",
+					"hp": 680,
+					"hybrid": "si",
+					"price": 145000,
+					"stars": 4.6,
+					"country": "Italy",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/MVSjH9"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/AYTRMu"
+						}
+					]
+				},
+				{
+					"id": "2c37685f-db65-4c70-937c-81cb2da7219c",
+					"name": "Revuelto",
+					"quantity":0,
+					"max_speed": 355,
+					"year": 2024,
+					"color": "green",
+					"hp": 700,
+					"hybrid": "si",
+					"price": 271500,
+					"stars": 4.8,
+					"country": "Italy",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/IIgfzh"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/HOOtfD"
+						}
+					]
+				}
+			]
+		},
+		{
+			"make": "Maserati",
+			"logo": "https://acortar.link/mY24WC",
+			"values": [
+				{
+					"id":"5e20dcb2-a5e7-4e41-84da-a321c3378b08",
+					"name": "MC20 Cielo",
+					"quantity":0,
+					"max_speed": 340,
+					"year": 2020,
+					"color": "white",
+					"hp": 680,
+					"hybrid": "si",
+					"price": 255000,
+					"stars": 4.8,
+					"country": "Italy",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/Ye5qke"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/NHTfl1"
+						}
+					]
+				}
+			]
+		},
+		{
+			
+			"make": "Mclaren",
+			"logo": "https://acortar.link/YmJlvD",
+			"values": [
+				{
+					"id":"f3ca2ec5-eec2-4058-886e-b1077e347aa1",
+					"name": "720S",
+					"quantity":0,
+					"max_speed": 360,
+					"year": 2019,
+					"color": "orange",
+					"hp": 680,
+					"hybrid": "si",
+					"price": 500000,
+					"stars": 5.0,
+					"country": "United Kingdom",
+					"url_image": [
+						{
+							"name": "front",
+							"url": "https://acortar.link/cdmJDI"
+						},
+						{
+							"name": "back",
+							"url": "https://acortar.link/8wYTZ2"
+						}
+					]
+				}
+			]
+		}
+	]
+}

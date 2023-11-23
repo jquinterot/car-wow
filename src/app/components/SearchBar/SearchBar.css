@@ -1,0 +1,11 @@
+.search__input input{
+    margin-left: 20px;
+    width: 300px;
+    color: black;
+}
+
+.search__input{
+    display: flex;
+    align-items: center;
+   
+}
