@@ -16,8 +16,9 @@ export function Card({
   increaseQuantity: () => void; 
 }) {
   return (
-    <div className="card__container">
-      {cars?.map((brandCars) => {
+    <div className="card__container pb-10">
+      {
+      cars?.map((brandCars) => {
         return brandCars.values.map((car) => (
           <CardContent
             carMake={brandCars.make}
@@ -28,7 +29,8 @@ export function Card({
             increaseQuantity={increaseQuantity}
           />
         ));
-      })}
+      })
+      }
     </div>
   );
 }

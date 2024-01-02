@@ -1,8 +1,10 @@
+
+"use client";
 import { Car } from "@/app/types/Car";
 import "./CartList.css";
 import { CartCars } from "@/app/types/CartCars";
 
-export function CartList({ cartCars, removeFromCart, removeAllFromCart, decreaseQuantity, resetQuantity, changeCartState, cartState }: {  removeFromCart: (car: Car) => void; cartCars: CartCars; removeAllFromCart: () => void; decreaseQuantity:() => void; resetQuantity: () => void, changeCartState: ()=> void, cartState:string}) {
+export default function CartList({ cartCars, removeFromCart, removeAllFromCart, decreaseQuantity, resetQuantity, changeCartState, cartState }: {  removeFromCart: (car: Car) => void; cartCars: CartCars; removeAllFromCart: () => void; decreaseQuantity:() => void; resetQuantity: () => void, changeCartState: ()=> void, cartState:string}) {
   
   const handleRemoveFromCart = (car:Car) => {
     removeFromCart(car);

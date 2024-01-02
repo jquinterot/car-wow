@@ -16,14 +16,14 @@ export function CardContent({
    increaseQuantity: () => void;
 }) {
   return (
-    <div className="card__content">
+    <div className="card__content font-serif bg-gray-950 text-white rounded-md">
       <img src={car.url_image[0].url} alt="" />
-      <h3>{carMake}</h3>
-      <h4>{car.name}</h4>
+      <h3 className="font-extrabold text-center mt-2">{carMake}</h3>
+      <h4 className="font-medium text-center"> {car.name}</h4>
       <ul>
-        <li>${car.price}</li>
-        <li>{car.stars}</li>
-        <li>{car.country}</li>
+        <li className="ml-4">${car.price}</li>
+        <li className="ml-4">{car.stars}</li>
+        <li className="ml-4">{car.country}</li>
       </ul>
       <AddButton car={car} addToCart={addToCart} increaseQuantity={increaseQuantity} />
     </div>

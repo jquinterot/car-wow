@@ -8,6 +8,6 @@ const handleAddToCart= (car:Car) => {
     increaseQuantity();
 }
     return(
-        <button onClick={() => handleAddToCart(car)} id='AddButton'>+ Add To Cart</button>
+        <button className='mt-4 rounded-lg bg-green-700 ml mb-2 ml-2 w-52' onClick={() => handleAddToCart(car)} id='AddButton'>+ Add To Cart</button>
     )
 }

@@ -1,0 +1,11 @@
+.table__container {
+    width: 100%;
+    margin:auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.table {
+    border: 1px solid #000;
+}
