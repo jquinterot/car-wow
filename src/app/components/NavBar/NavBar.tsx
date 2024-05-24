@@ -8,7 +8,7 @@ export function NavBar({quantity, cartCars, removeFromCart, removeAllFromCart, d
   return (
     <nav className="flex bg-gray-800 px-9 sm:px-12 md:px-48 xl:px-72 space-x-5 pt-12">
       
-      <div className=" text-white font-sans font-bold xl:text-4xl  md:text-2xl text-lg  min-w-max w-20 mr-14">
+      <div className=" text-white font-sans font-bold xl:text-4xl  md:text-2xl text-lg  min-w-max w-20 mr-14 mt-2">
         <h3>Car Wow</h3>
       </div>
 
